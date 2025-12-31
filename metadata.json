@@ -1,0 +1,7 @@
+{
+  "name": "ZapGroups Pro",
+  "description": "Professional WhatsApp group directory with SEO optimization, boost system, and full admin control using Baserow as a backend.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
